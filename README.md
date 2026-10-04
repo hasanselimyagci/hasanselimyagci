@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<p align="center">
- <img width="300" src="assets/welcome.gif"/>
-</p>
-
 ## About me
 [![Email](https://img.shields.io/badge/Email-blue)](mailto:hasanselimyagci@gmail.com)
 
